@@ -1,4 +1,4 @@
-package String;
+
 public class ValidPalidrome {
     public static void main(String[] args) {
         String str = "0p";
